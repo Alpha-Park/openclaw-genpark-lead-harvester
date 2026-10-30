@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-lead-harvester",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Lead Harvester - B2B multi-channel lead enrichment and Bayesian intent pipeline with firmographic distance and AE/PLG routing.",
+  "tools": [
+    "calculate_icp_fit",
+    "compute_bayesian_intent_score",
+    "classify_lead_tier_and_routing"
+  ]
+}
