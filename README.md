@@ -1,6 +1,6 @@
 # openclaw-genpark-lead-harvester
 
-[![Organization](https://img.shields.io/badge/AlphaPark-OpenSource-blue.svg)](https://github.com/alphaparkinc)
+[![Organization](https://img.shields.io/badge/AlphaPark-OpenSource-blue.svg)](https://github.com/Alpha-Park)
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Standard-orange.svg)](https://modelcontextprotocol.io)
 [![Zero-Dependency](https://img.shields.io/badge/Dependencies-Zero_External-brightgreen.svg)](#)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](#)
